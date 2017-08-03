@@ -19,8 +19,6 @@
 				</el-menu>
 			</el-col>
 			<!-- header right area-->
-			
-
 			<el-col :xs="8" :sm="8" :md="{span:2,offset: 4}">
 				<div class="header-right">
 					<el-col :span="10">
